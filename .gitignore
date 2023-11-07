@@ -1,0 +1,8 @@
+# node modules
+/node_modules
+/ADVENTURE_GAME
+/dist
+
+.vscode
+.idea
+.DS_Store
